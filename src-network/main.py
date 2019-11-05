@@ -1,6 +1,6 @@
 import numpy as np
 import time
-from utils import Plotter, load_data
+from utils import Plotter, load_data, ReLU
 
 np.random.seed(40)
 
